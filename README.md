@@ -5,8 +5,6 @@ In the pixelNormalize function of the OS class you should add your own screen ca
 
 ## Notes:
 
--WARNING: This pixel normalization does not work for other rotations than 1.
-
 -The "Copy to SD" folder is the entire contents that I had on my SD when I ran my tests. 
 
 -When I uploaded this code to the board in the Arduino IDE I used the "ESP32 Dev Module" option.
