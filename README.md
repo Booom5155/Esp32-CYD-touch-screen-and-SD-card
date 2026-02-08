@@ -10,7 +10,7 @@ In the pixelNormalize function of the OS class you should add your own screen ca
 -When I uploaded this code to the board in the Arduino IDE I used the "ESP32 Dev Module" option.
 
 ## Credits: 
-### This repo is the combination of many tutorials, here is one of the foremost:
+### This repo is the combination of many tutorials, here are the foremost:
 
 [SD card](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
